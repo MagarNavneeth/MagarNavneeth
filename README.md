@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagarNavneeth
 - 👀 I’m interested in Exploring New Things Relative Technology 
-- 🌱 I’m currently learning HTML Full Stack Development
+- 🌱 I’m currently learning HTML Full  Stack Web Development
 - 📫 How to reach me @navneeth_99
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 😀😀😀
